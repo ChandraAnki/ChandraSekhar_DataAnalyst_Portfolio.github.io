@@ -1,11 +1,10 @@
 
 # Resume Portfolio
 
-![Profile Picture](Profile_Pic1.png){.profile-img}
+![Profile Picture](Profile_Pic1.png)
 
 ## Chandra Sekhar Ankisetty
 
-::: professional-summary
 ### Professional Summary
 
 Data Analyst with 4+ years of experience in Data Analysis, Data
@@ -17,87 +16,61 @@ Jenkins, Docker). Strong background in data visualization, dashboard
 development, and stakeholder collaboration to drive data-driven
 decision-making. Experienced in Agile project management using JIRA and
 Azure DevOps to deliver efficient solutions.
-:::
 
-::: contact-info
+
 ### Contact
 
-::: contact-item
+
 Charlotte, North Carolina, USA
-:::
 
-::: contact-item
+
+
 <chandrasekhar.ankisetty@gmail.com>
-:::
 
-::: contact-item
+
+
 +1 (989) 262-9557
-:::
 
-::: contact-item
-[linkedin.com/in/achandra-sekhar018/](https://www.linkedin.com/in/achandra-sekhar018/){target="_blank"}
-:::
 
-::: contact-item
-[github.com/ChandraAnki](https://github.com/ChandraAnki){target="_blank"}
-:::
 
-::: contact-item
-[yourportfolio.com](#){target="_blank"}
-:::
-:::
+[linkedin.com/in/achandra-sekhar018/](https://www.linkedin.com/in/achandra-sekhar018/)
 
-::: section
-::: section-title
+
+
+[github.com/ChandraAnki](https://github.com/ChandraAnki)
+
+
+
+[yourportfolio.com](#)
+
 
 ### Education
-:::
 
-::: education-item
-::: degree
 **MS Degree**
-:::
 
-::: institution
+
 Northwood University
-:::
-:::
-:::
 
-::: section
-::: section-title
 
 ### Certifications
-:::
 
-::: certification-item
-::: certification-name
 AWS Practitioner Certified
-:::
 
-::: issuer
 Amazon Web Services
-:::
-:::
-:::
-:::
 
-::: right-column
-::: professional-experience
+
+
 ## Professional Experience
 
-::: experience-item
-::: company
+
 Best Buy
-:::
 
-::: location
 Minneapolis, MN
-:::
 
-::: date
+
+
 September 2024 -- Present
-:::
+
 
 -   Analyzed and processed large datasets using SQL, extracting insights
     to support strategic decision-making.
@@ -121,20 +94,19 @@ September 2024 -- Present
 -   Collaborated with cross-functional teams, gathering business
     requirements and translating them into technical solutions using
     Jira for project management.
-:::
 
-::: experience-item
-::: company
+
+
 GlobalLogic
-:::
 
-::: location
+
+
 Hyderabad, India
-:::
 
-::: date
+
+
 August 2019 -- July 2023
-:::
+
 
 -   Conducted exploratory data analysis (EDA) using Python, identifying
     trends, anomalies, and actionable insights to support data-driven
@@ -158,10 +130,9 @@ August 2019 -- July 2023
 -   Created data solutions aligned with business objectives, enabling
     stakeholders to make informed decisions and improving operational
     efficiency by 30%.
-:::
-:::
 
-::: skills
+
+
 ## Skills
 
 -   Database Systems : Snowflake, ORACLE, SQL Server, SSMS
