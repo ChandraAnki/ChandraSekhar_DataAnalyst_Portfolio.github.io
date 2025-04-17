@@ -1,5 +1,4 @@
 
-::: left-column
 # Resume Portfolio
 
 ![Profile Picture](Profile_Pic1.png){.profile-img}
