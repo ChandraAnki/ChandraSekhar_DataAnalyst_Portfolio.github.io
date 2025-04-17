@@ -1,4 +1,4 @@
-::: resume-container
+
 ::: left-column
 # Resume Portfolio
 
