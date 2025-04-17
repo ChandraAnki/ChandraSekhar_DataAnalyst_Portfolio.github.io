@@ -148,6 +148,3 @@ August 2019 -- July 2023
     Studio and SQL Server reporting services (SSRS).
 -   TOOLS : MAVEN, ANSIBLE, JENKINS, GitHub, DOCKER.
 -   Operating Systems : Windows and UNIX.
-:::
-:::
-:::
